@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JSerigrafía_movil</string>
+    <!--activity uno-->
+    <string name="serigrafia">Serigrafía</string>
+    <string name="tampografia">Tampografia</string>
+    <string name="moleskines">Moleskines</string>
+    <string name="productos_3">Seccion 3</string>
+    <string name="productos_4">Seccion 4</string>
+    <string name="productos_5">Seccion 5</string>
+    <string name="productos_6">Seccion 6</string>
+    <string name="contacto">Contacto</string>
+    <string name="seccion3">Seccion 3</string>
+    <string name="volver">Volver</string>
+    <string name="nombre">Cliente</string>
+    <string name="productos">Producto</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="seccion">Seccion</string>
+    <string name="color">Color</string>
+    <string name="pantalla">Pantalla</string>
+    <string name="precio">Precio</string>
+    <string name="Calcular">Calcular</string>
+    <string name="borrar">Borrar</string>
+    <string name="enviar">Enviar</string>
+    <string name="mail">Mail</string>
+    <string name="cliente">Cliente</string>
+
+</resources>
